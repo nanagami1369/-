@@ -9,8 +9,8 @@
 1. 診断メーカーで遊ぶ
 1. 診断を保存する
 1. [保存した診断](https://shindanmaker.com/mypage/results) へ移動
-1. scroll.jsの中身を開発者ツールのコンソールにコピペ＆実行
-1. main.jsの中身を開発者ツールのコンソールにコピペ＆実行
+1. [scroll.js](https://raw.githubusercontent.com/nanagami1369/SindanDownloader/main/scroll.js)の中身を開発者ツールのコンソールにコピペ＆実行
+1. [main.js](https://raw.githubusercontent.com/nanagami1369/SindanDownloader/main/main.js)の中身を開発者ツールのコンソールにコピペ＆実行
 1. 結果がテキストファイルになるので後は肉なり焼くなりして下さい。
 
 ## 注意事項
